@@ -60,10 +60,8 @@ sections:
     features:
       - title: This sure is easy to edit.
         subtitle: Now let's edit from the side bar!
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+          Wow - this is just super awesome and cool to use!
         actions:
           - label: Learn More
             url: /style-guide
